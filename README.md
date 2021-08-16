@@ -2,7 +2,7 @@
 - 👀 I’m interested in .Net core,angular ,vuejs and unity
 - 🌱 I’m currently learning .Net core,angular ,vuejs and unity
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mr.ikromhodjayev@gmail.com
 
 <!---
 Ilyoskhuja/Ilyoskhuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
